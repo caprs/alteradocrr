@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(206, 255, 10);
+}
+
+h1{
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+.imagem{
+    margin:0;
+    transform: translate(-50,-50);
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    text-align: center;
+}

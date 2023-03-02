@@ -1,0 +1,49 @@
+body{
+    background-color: #fffb0c;
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+div{
+ text-align: center;
+}
+
+fieldset{
+    border-color: azure;
+    border-radius: 10px;
+}
+
+.botao{
+    width: 15%;
+    height: 10%;
+    text-align: center;
+}
+
+#botaof{
+    margin:0;
+    transform: translate(-50,-50);
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    text-align: center;
+    
+}
+
+.finalizar{
+    margin:0;
+    transform: translate(-50,-50);
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    text-align: center;
+}
+
+input{
+    border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+body {
+    background-color:#fffb0c;
+
+}
+ body {
+    text-align: center; 
+}
+
+body{
+ text-align: left;
+}
+
+div{
+    text-align: center;
+}
+
+ input{
+    color: rgb(206, 174, 92);
+    border-style:solid;
+    border-radius: 10px;
+
+ }
+
+ fieldset{
+    border-color: rgb(255, 175, 3);
+ }
+
+ .posicao{
+    text-align: right;
+ }

@@ -1,0 +1,22 @@
+body{
+    background-color: #fffb0c;
+}
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+.carrinho{
+    text-align: center;
+}
+
+.setas{
+    margin:0;
+    transform: translate(-50,-50);
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    text-align: center;
+}

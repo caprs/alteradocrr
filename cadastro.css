@@ -1,0 +1,33 @@
+body {
+    background-color:#fffb0c;
+
+}
+
+div{
+    text-align: center;
+    
+}
+ 
+header{
+    text-align: left;
+}
+
+span{
+    color: rgba(0, 0, 0, 0.594);
+}
+
+h1{
+    font-family: Georgia;
+    color: darkorange;
+}
+
+label{
+    color: darkorange;
+    font-weight: bold;
+}
+
+input{
+    border-style: solid;
+    color:rgb(206, 174, 92);
+    border-radius: 10px 20px;
+}
